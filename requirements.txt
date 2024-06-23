@@ -1,0 +1,8 @@
+fastapi
+openai-whisper
+numpy
+torch
+tiktoken
+numba
+streamlit
+pydub
