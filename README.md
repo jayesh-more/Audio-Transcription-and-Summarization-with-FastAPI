@@ -65,16 +65,16 @@ This project involves developing a system that processes audio files to transcri
 
 Directory Structure in VSCode:
 
+    
+├── fastapi_backend.py                               # Main FastAPI application
 
-├── fastapi_backend.py             # Main FastAPI application
+├── frontend.py                                      #Fronend Streamlit Application
 
-├── frontend.py                      #Fronend Streamlit Application
+├── requirements.txt                                 # List of required Python packages
 
-├── requirements.txt         # List of required Python packages
+├── transcription.txt                                # To store the transcription files generated for each audio file processed by the API
 
-├── transcription.txt       # To store the transcription files generated for each audio file processed by the API
+├── timestamps.txt                                   # To store the timestamps files generated for each audio file processed by the API
 
-├── timestamps.txt       # To store the timestamps files generated for each audio file processed by the API
-
-├── summary.txt         # To store the summary files generated for each audio file processed by the API
+├── summary.txt                                      # To store the summary files generated for each audio file processed by the API
       
