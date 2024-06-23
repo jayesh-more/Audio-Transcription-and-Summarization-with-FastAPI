@@ -6,8 +6,8 @@ This project involves developing a system that processes audio files to transcri
 
 ## Features
 
--Upload an audio file to receive a transcription.
--Obtain a summary of the transcribed text.
+- Upload an audio file to receive a transcription.
+- Obtain a summary of the transcribed text.
 - Receive timestamps for each word in the transcription.
 
 ## Requirements
