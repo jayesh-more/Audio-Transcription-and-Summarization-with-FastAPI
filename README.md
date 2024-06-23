@@ -55,12 +55,12 @@ This project involves developing a system that processes audio files to transcri
 3. Upload an audio file :
     - Use the `Browse files` endpoint to upload an audio file and receive the transcription, summary, and timestamps.
 
-##Prerequisites
+## Prerequisites
 
 - Python 3.7 or higher
 - pip (Python package installer)
 
-##Acknowledgments
+## Acknowledgments
   Whisper by OpenAI for speech recognition. Hugging Face for the BART summarization model. The Streamlit and FastAPI communities for their excellent frameworks.
 
 Directory Structure in VSCode:
