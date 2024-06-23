@@ -21,7 +21,7 @@ This project involves developing a system that processes audio files to transcri
 - torch
 - numpy
 
-##Technologies Used
+## Technologies Used
 
 - FastAPI: A modern, fast (high-performance) web framework for building APIs with Python.
 - Streamlit: An open-source app framework for Machine Learning and Data Science projects.
