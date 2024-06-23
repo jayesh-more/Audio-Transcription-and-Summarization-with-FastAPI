@@ -63,7 +63,7 @@ This project involves developing a system that processes audio files to transcri
 ## Acknowledgments
   Whisper by OpenAI for speech recognition. Hugging Face for the BART summarization model. The Streamlit and FastAPI communities for their excellent frameworks.
 
-Directory Structure in VSCode:
+## Directory Structure in VSCode:
 
     
 ├── fastapi_backend.py                               # Main FastAPI application
